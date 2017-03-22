@@ -21,7 +21,7 @@ public class Constants
             return constantValue;
         }
     }
-//asad
+
     public enum FeedTypes
     {
         SPORTS("http://www.independent.co.uk/api/v1/12791/json", "Sports"), FRONTPAGE("http://www.independent.co.uk/api/v1/11831/json", "Front Page"),
