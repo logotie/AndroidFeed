@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidFeedTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="front_page_newsfeed">Front Page</string>
+    <string name="world_newsfeed">World</string>
+    <string name="sports_newsfeed">Sports</string>
+    <string name="business_newsfeed">Business</string>
+</resources>

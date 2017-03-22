@@ -1,0 +1,12 @@
+Index: app/src/main/java/com/example/admin/androidfeedtest/tasks/task/newsfeed/NewsFeedPresenter.java
+===================================================================
+--- app/src/main/java/com/example/admin/androidfeedtest/tasks/task/newsfeed/NewsFeedPresenter.java	(revision )
++++ app/src/main/java/com/example/admin/androidfeedtest/main/tasks/newsfeeed/NewsFeedPresenter.java	(revision )
+@@ -2,6 +2,7 @@
+ 
+ import android.util.Log;
+ 
++import com.example.admin.androidfeedtest.main.tasks.newsfeeed.NewsFeedModel;
+ import com.example.admin.androidfeedtest.tasks.base.Constants;
+ import com.example.admin.androidfeedtest.tasks.task.newsfeed.model.NewsArticle;
+ 

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".main.task.newsfeed.NewsFeedActivity">
+    <item
+        android:id="@+id/action_sports_newsfeed"
+        android:orderInCategory="100"
+        android:title="@string/sports_newsfeed"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_world_newsfeed"
+        android:orderInCategory="100"
+        android:title="@string/world_newsfeed"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_frontpage_newsfeed"
+        android:orderInCategory="100"
+        android:title="@string/front_page_newsfeed"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_business_newsfeed"
+        android:orderInCategory="100"
+        android:title="@string/business_newsfeed"
+        app:showAsAction="never" />
+</menu>
