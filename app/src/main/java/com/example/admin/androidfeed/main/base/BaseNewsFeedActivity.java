@@ -23,6 +23,7 @@ public class BaseNewsFeedActivity extends AppCompatActivity
 
     private final static String TAG = BaseNewsFeedActivity.class.getSimpleName();
 
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
