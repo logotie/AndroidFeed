@@ -1,12 +1,18 @@
 JSON Newsreader application using Web APIs provided by 'The Independent' newspaper.
 
 Uses the following external dependencies:
+<br>
 Volley - HTTP Requests.
+<br>
 Jackson - JSON Parsing.
+<br>
 Dagger2 - Dependency Injection.
+<br>
 Stream Support - Java 8 Streams functionality.
+<br>
 Glide - Image loading.
-and other dependencies (please check build.gradle)
+<br>
+Please check build.gradle, to view all dependencies.
 
 Screenshots:
 
